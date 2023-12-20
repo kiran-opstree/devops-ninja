@@ -1,6 +1,7 @@
 # Assignment 01 : Basic Linux Commands
 
-I create a utility (FileManager.sh) that will be able to do below all tasks.
+## About 
+I create a utility (FileManager.sh) that will be able to do tasks line create, delete, list, copy, move, etc. files and directory. 
 
 ## Step 1
 ### Create a Directory
@@ -167,4 +168,6 @@ Here I use a case statement where action is "deleteFile" followed by location an
 ### Output :
 ![image](https://github.com/kiran-opstree/devops-ninja/assets/149475012/0cc93d8d-425a-498b-aaa5-3990e8bb7767)
 
-## End of Assignment 01 ##
+=================================================================================================
+## Author
+### Kiran Dehlikar
